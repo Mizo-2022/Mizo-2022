@@ -1,0 +1,7 @@
+صدى "# Mizo-2022" >> README.md 
+git init 
+add README.md 
+git الالتزام -m "الالتزام الأول" 
+git Branch -M main 
+git remote add origin https://github.com/Mizo-2022/Mizo- 2022.git
+ git push -u origin main
